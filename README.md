@@ -59,9 +59,6 @@
 <a href="https://github.com/Bhuvangoyal466">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&langs_count=8&theme=radical"/>
 </a>
-
-[![Bhuvan Goyal profile views](https://u8views.com/api/v1/github/profiles/78955174/views/day-week-month-total-count.svg)](https://u8views.com/github/Bhuvangoyal466)
-
 ## 📫 Connect with Me  
 - 📧 bhuvangoyal6002@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvangoyal28)  
