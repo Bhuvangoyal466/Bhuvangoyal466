@@ -59,8 +59,9 @@
 <a href="https://github.com/Bhuvangoyal466">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&langs_count=8&theme=radical"/>
 </a>
+
 ## 📫 Connect with Me  
 - 📧 bhuvangoyal6002@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvangoyal28)  
+- 🔗 https://www.linkedin.com/in/bhuvangoyal28
 
 ⭐ **Looking for opportunities in Software Development & AI!**  
