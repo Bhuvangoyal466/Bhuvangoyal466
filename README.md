@@ -9,7 +9,7 @@
 - 🎓 Pursuing **B.E. in Computer Science (AI)** at **Chitkara University (2023-2027)**  
 - 💻 Proficient in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
 - 🤖 Passionate about **AI, Machine Learning, and Web Development**  
-- 🚀 Solved **700+ LeetCode Problems**, **5⭐ Python & C++**, **4⭐ SQL** on Hackerrank  
+- 🚀 Solved **850+ LeetCode Problems**, **5⭐ Python & C++**, **4⭐ SQL** on Hackerrank  
 - 🏆 Strong grasp of **Data Structures & Algorithms (DSA)**  
 - 📖 Committed to **continuous learning & open-source contributions**  
 
