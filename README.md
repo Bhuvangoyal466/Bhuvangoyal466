@@ -57,15 +57,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvangoyal466&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&langs_count=8&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bhuvangoyal466&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 Connect with Me
