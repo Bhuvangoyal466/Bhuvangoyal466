@@ -55,9 +55,18 @@
 🔹 [**Elite Threads**](https://github.com/Bhuvangoyal466/EliteThreads) – E-commerce clothing & accessories platform
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Bhuvangoyal466">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&langs_count=8&theme=radical"/>
-</a>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvangoyal466&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical" />
+</p>
 
 ## 📫 Connect with Me
 - 📧 bhuvangoyal6002@gmail.com
