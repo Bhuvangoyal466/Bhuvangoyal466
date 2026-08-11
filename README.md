@@ -54,17 +54,6 @@
 🔹 [**NestAway**](https://github.com/Bhuvangoyal466/NestAway) – Full-stack web app for home rentals
 🔹 [**Elite Threads**](https://github.com/Bhuvangoyal466/EliteThreads) – E-commerce clothing & accessories platform
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Bhuvangoyal466&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvangoyal466&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvangoyal466&theme=radical&hide_border=true" />
-</p>
-
 ## 📫 Connect with Me
 - 📧 bhuvangoyal6002@gmail.com
 - 🔗 [linkedin.com/in/bhuvangoyal28](https://www.linkedin.com/in/bhuvangoyal28)
