@@ -102,12 +102,6 @@
 - **Introduction to Frontend Development** – Meta
 - **Google Cloud Arcade Facilitator Program** – Legend Milestone '25
 
-## 🚀 Featured Projects
-🔹 [**VIBGYOR**](https://www.vibgyorstationery.com/) – React & Supabase e-commerce platform with secure auth and a full CRUD admin dashboard
-🔹 [**RepoMiner**](https://github.com/Bhuvangoyal466/RepoMiner) – RAG-based chatbot that answers natural-language questions about any GitHub repo using LangChain and Gemini
-🔹 [**NestAway**](https://github.com/Bhuvangoyal466/NestAway) – Full-stack web app for home rentals
-🔹 [**Elite Threads**](https://github.com/Bhuvangoyal466/EliteThreads) – E-commerce clothing & accessories platform
-
 ## 💬 What People Say
 > "I had the pleasure of working with Bhuvan on the development of my website, and he exceeded all my expectations. He is detail-oriented, communicates clearly, and ensures every requirement is implemented thoughtfully. His ability to suggest improvements that added real value to the project truly impressed me."
 > — **Anjali Singla**, Founder @ CodingBuds
